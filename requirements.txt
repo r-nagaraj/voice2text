@@ -9,3 +9,7 @@ textblob==0.15.3
 nltk==3.4
 SpeechRecognition==3.8.1
 backports.os==0.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+scipy>=0.15.1
