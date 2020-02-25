@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Audio (wav format) file upload using Python Flask</title>
+<style>
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+</style>
+    </head>
+    <body style="background-color:powderblue;">
+		<h1>Audio (wav format) file upload</h1>
+        <form action="/handleUpload" method="post" enctype="multipart/form-data">
+            Choose the file: <input type="file" name="file"/><BR>
+                <input type="submit" value="Upload"/>
+        </form> 
+		<br>
+   <br>
+   <b>{{ prediction_text }}</b>
+   <br>
+   <br>
+   <h3><i>Please contact <b>Nagaraj </b> for further details</i></h3>
+    </body>
+</html>
