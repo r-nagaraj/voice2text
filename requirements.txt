@@ -1,0 +1,11 @@
+Flask==1.0.2
+Werkzeug==0.14.1
+numpy==1.16.2
+scikit-learn==0.20.3
+MarkupSafe==1.1.1
+matplotlib==3.0.3
+pandas==0.24.2
+textblob==0.15.3
+nltk==3.4
+SpeechRecognition==3.8.1
+backports.os==0.1.1
