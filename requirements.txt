@@ -6,7 +6,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 pandas==0.24.2
 textblob==0.15.3
-nltk==3.4
+nltk==3.6.6
 SpeechRecognition==3.8.1
 backports.os==0.1.1
 gunicorn==19.9.0
